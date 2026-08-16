@@ -61,19 +61,20 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 - Comporte trois contenus de Portfolio (1pt)
 - Un **modèle de page d'accueil** est configuré (avec travaux récents) (2pts)
 - ACF: le contenu *Portfolio* est défini (2pts)
-- Un **modèle Bricks** pour Portfolio est créé (2pts)
+- Un **modèle Bricks** pour Portfolio est créé et fonctionne (2pts)
 - Un style typographique est configuré (styles du thème, classes...) (1pt)
 - Des **variables de couleur** ont été utilisées (dans Bricks) (1pt)
-- Une catégorie est utilisée pour le Portfolio (1pt)
+- Une catégorie est utilisée pour organiser les travaux du Portfolio (1pt)
+- L'export ZIP du site a été créé correctement (1pt).
 
-Total des points: 11
+Total des points: 12
 
 #### Barème
 
-11 pts = 6  
-10 pts = 5,5  
-9 pts = 5  
+12 pts = 6  
+11 pts = 5,5  
+9-10 pts = 5  
 8 pts = 4,5  
 7 pts = 4  
 6 pts = 3,5  
-5 pts = 3  
+4-5 pts = 3  
