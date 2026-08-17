@@ -19,9 +19,9 @@ Le CMS que nous utiliserons principalement est WordPress (augmenté de l'interfa
 
 ### Première phase: apprentissage
 
-Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre leçons.   
-Rendu 1: documentation en capture d'écran vidéo du travail réalisé.  
-Date du rendu: Lundi 28 septembre 2026 à la fin du cours.
+Apprentissage initial du CMS WordPress à travers une série d'exercices, sur quatre leçons.   
+**Rendu:** documentation en capture d'écran vidéo du travail réalisé.  
+**Date du rendu**: Lundi 5 octobre 2026 au début du cours.
 
 ### Deuxième phase: application
 

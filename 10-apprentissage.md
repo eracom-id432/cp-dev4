@@ -51,9 +51,9 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 
 **Format du rendu:** 
 - documentation en capture d'écran vidéo du travail réalisé. 
-- export ZIP du site web 
+- export ZIP du site web. 
 
-**Date du rendu:** Lundi 28 septembre 2026 à la fin du cours.
+**Date du rendu:** Lundi 5 octobre 2026 au début du cours.
 
 #### Critères: 
 
